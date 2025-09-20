@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+ #yellow {
+      background-color: yellow;
+      border: 1px solid green;
+      padding: 10px;
+      margin: 5px 0;
+    }
+
+    #red {
+      background-color: red;
+      border: 1px solid black;
+      padding: 10px;
+      margin: 5px 0;
+      color: white; /* better visibility on red */
+    }
+
+    #green {
+      background-color: green;
+      border: 1px solid yellow;
+      padding: 10px;
+      margin: 5px 0;
+      color: white; /* better visibility on green */
+    }
